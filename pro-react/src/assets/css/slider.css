@@ -1,0 +1,17 @@
+.m2 {
+  height: 154px;
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+}
+
+.slide1 {
+  color: #fff;
+}
+
+.slide2 {
+  color: #000;
+}
+.am-slider-default .am-control-nav{ display: none;}
+.am-direction-nav{ display: none;}
+.am-slider-default{ margin: 0;}
